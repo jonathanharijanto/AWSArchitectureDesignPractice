@@ -15,3 +15,6 @@ A small start-up company is considering to adopt AWS. Their current architecture
 
 ## Objective
 Recommend a scalable, elastic, and redundant architecture that allows the start-up to grow organically. The architecture should specifically address the requirements/concerns as described above with a description of any assumptions made to determine the best solution.
+
+## Answer
+Coming soon!!
